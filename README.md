@@ -6,7 +6,6 @@
 [Trustless baking](https://github.com/DAObaker/contracts/tree/master/trustless-baking)
 
 
+#### maintainers
 
-
-
-maintained by [coinless](https://github.com/coinless-bde/)
+[coinless](https://github.com/coinless-bde/)
